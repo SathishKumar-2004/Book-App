@@ -21,7 +21,7 @@ The Book App is a simple web application that allows users to add, delete, and u
 
 To get a local copy up and running, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/book-app.git`
+1. Clone the repository: `git clone https://github.com/SathishKumar-2004/Book-App.git`
 2. Open the project directory in your preferred code editor.
 3. Open `index.html` in your web browser to launch the Book App.
 
